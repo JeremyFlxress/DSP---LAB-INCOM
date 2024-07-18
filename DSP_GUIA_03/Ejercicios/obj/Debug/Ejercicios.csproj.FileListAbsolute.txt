@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\PRE- G04L - Ejemplos Daniel Merino\Guia 3\Ejercicios\obj\Debug\Ejercicios.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\PRE- G04L - Ejemplos Daniel Merino\Guia 3\Ejercicios\obj\Debug\Ejercicios.Ordenar.resources
+C:\Users\usuario\Documents\PRE- G04L - Ejemplos Daniel Merino\Guia 3\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\usuario\Documents\PRE- G04L - Ejemplos Daniel Merino\Guia 3\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\PRE- G04L - Ejemplos Daniel Merino\Guia 3\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
